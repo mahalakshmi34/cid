@@ -1,6 +1,6 @@
 node{
    stage('SCM Checkout'){
-     git 'https://github.com/mahalakshmi34/cid'
+     git 'https://github.com/mahalakshmi34/ford.git'
    }
    stage('Compile-Package'){
 
